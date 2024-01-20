@@ -1,2 +1,2 @@
-### Thanks for visiting my portfolio project.
-I'll soon complete this project.
+### Thanks for visiting my personal portfolio project. 
+#### This is the first version, I'll keep updating this maybe once a month.
