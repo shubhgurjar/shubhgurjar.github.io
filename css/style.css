@@ -421,10 +421,6 @@ hr.style-two {
   margin-top: 60px;
 }
 
-/* .sg-feature2 .sg-text-image {
-  text-align: justify;
-} */
-
 .sg-feature2 .sg-text-image h2 {
   font-size: 26px;
   letter-spacing: 2px;
@@ -623,11 +619,26 @@ hr.style-two {
   margin-top: 10px;
 }
 
-.bordered-div {
-  border: 2px groove #b37700;
-  box-shadow: 1px 1px 20px #b37700;
-  border-radius: 8px;
-  margin-bottom: 15px;
-  margin-left: 15px;
-  margin-right: 15px;
+
+.profile-div {
+  display: flex;
+  justify-content: space-around;
+  align-items: center; 
+  padding: 50; /* Add padding for better spacing */
+}
+
+.profile-div ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.profile-div li {
+  margin-right: 15px; /* Adjust the margin between the list items */
+}
+
+.profile-div a {
+  text-decoration: none;
+  color: #fff; /* Set the link color */
 }
