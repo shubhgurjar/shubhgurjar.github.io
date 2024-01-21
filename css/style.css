@@ -89,7 +89,7 @@ h6 {
 #sg-main {
   max-width: 800px;
   min-height: 600px;
-  margin: 5em auto 5em auto;
+  margin: 0 auto 5em auto;
   position: relative;
   background: rgba(0, 0, 0, 0.90);
   overflow: hidden;
@@ -106,7 +106,7 @@ h6 {
 
 @media screen and (max-width: 768px) {
   #sg-main {
-    margin: 2em .5em 5em .5em;
+    margin: 0 .5em 5em .5em;
   }
 }
 
