@@ -10,7 +10,7 @@ Various fonts have been utilized to enhance the visual appeal of the website.
 - **Experience**: Details of my professional experience, highlighting key roles and responsibilities.
 - **Skills**: Overview of my technical skills and competencies.
 - **Projects**: Showcase of selected projects I have worked on, including descriptions and links to their GitHub repositories or live demos.
-- **Contact**: Ways to reach out to me via LinkedIn profile or mail.
+- **Contact**: Ways to contact me via LinkedIn profile or mail.
 
 ## Technologies Used
 
@@ -18,7 +18,7 @@ Various fonts have been utilized to enhance the visual appeal of the website.
 - CSS
 - JavaScript
 - Bootstrap
-- Various fonts for typography enhancement
+- Various icons for visual enhancement
 
 ## Project Structure
 
@@ -29,7 +29,7 @@ Various fonts have been utilized to enhance the visual appeal of the website.
 
 ## Getting Started
 
-To view the website, simply visit the following link:
+To view the website, visit the following link:
 
 [Shubh Portfolio Website](https://shubhgurjar.github.io/)
 
@@ -37,6 +37,6 @@ To view the website, simply visit the following link:
 
 - **LinkedIn**: [Shubh LinkedIn](https://www.linkedin.com/in/shubhamgurjar1)
 
-Feel free to reach out to me via linkedin for inquiries, collaborations, or networking opportunities.
+Feel free to contact me via LinkedIn for inquiries, collaborations, or networking opportunities.
 
 ---
