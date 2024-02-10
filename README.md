@@ -37,7 +37,7 @@ cd shubhgurjar.github.io
 
 ## Contact Information
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/shubhamgurjar1)
+- **LinkedIn**: [Shubh LinkedIn](https://www.linkedin.com/in/shubhamgurjar1)
 
 Feel free to reach out to me via linkedin for inquiries, collaborations, or networking opportunities.
 
