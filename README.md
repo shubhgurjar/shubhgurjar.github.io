@@ -1,6 +1,7 @@
 # Portfolio Website
 
-Welcome to my portfolio website! This project showcases my profile, education, experience, skills, projects, and contact information in a single-page layout. It has been built using HTML, CSS, JavaScript, and Bootstrap framework. Various fonts have been utilized to enhance the visual appeal of the website.
+Welcome to my portfolio website! This project showcases my profile, education, experience, skills, projects, and contact information in a single-page layout. It has been built using HTML, CSS, JavaScript, and Bootstrap framework. 
+Various fonts have been utilized to enhance the visual appeal of the website.
 
 ## Features
 
@@ -9,7 +10,7 @@ Welcome to my portfolio website! This project showcases my profile, education, e
 - **Experience**: Details of my professional experience, highlighting key roles and responsibilities.
 - **Skills**: Overview of my technical skills and competencies.
 - **Projects**: Showcase of selected projects I have worked on, including descriptions and links to their GitHub repositories or live demos.
-- **Contact**: Ways to reach out to me via my LinkedIn profiles or mail.
+- **Contact**: Ways to reach out to me via LinkedIn profile or mail.
 
 ## Technologies Used
 
@@ -28,12 +29,9 @@ Welcome to my portfolio website! This project showcases my profile, education, e
 
 ## Getting Started
 
-To run the website locally, simply clone this repository and open `index.html` in your web browser.
+To view the website, simply visit the following link:
 
-```bash
-git clone https://github.com/shubhgurjar/shubhgurjar.github.io
-cd shubhgurjar.github.io
-```
+[Shubh Portfolio Website](https://shubhgurjar.github.io/)
 
 ## Contact Information
 
